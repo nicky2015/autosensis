@@ -1,0 +1,65 @@
+# 评价对象
+nca
+ncb
+ncm
+ncy
+ncs
+ncp
+nco
+ncd
+ncg
+
+# 使用场景
+nce
+# 高速表现
+# nce,ncj这条规则暂时取消, 因为 刹车前轮 被错误的防盗了使用场景内
+# nce,ncf
+# 坐一个大人(待添加)
+# v,m,n
+
+# 评价角度词性
+# ncc
+# ncf
+# ncv
+ncj
+# 评价角度词组
+ncj,f,ncj
+# 车轮/上/的/板
+ncj,f,uj,ncj
+ncj,uj,ncj
+ncj,uj,ncj,ncj
+# ncj,ncj
+# ncj,ncj,ncj
+# ncj,c,ncj
+# 空调风向开关全是电子式
+ncj,n,ncj,a,v,ncj
+# # 中央扶手下方的储物盒
+# ncc,f,ncc
+# ncc,f,uj,ncc
+# # B柱拉手
+# ncc,ncc
+# ncc,ncc,ncc
+# ncc,ncf
+# ncc,uj,ncf
+# # 驾驶的安全性
+# ncf,uj,ncf
+# # 座椅的舒适性
+# ncc,uj,ncf
+# # 后排的空间
+# ncc,uj,ncc
+# ncc,uj,ncf,ncf
+# ncf,uj,ncc
+# ncf,ncf
+# ncf,c,ncf
+# ncf,ncf
+# ncf,ncc
+
+# 情感程度词
+gr
+
+# 情感主词
+exp
+imp
+foc
+app
+m,ncn
